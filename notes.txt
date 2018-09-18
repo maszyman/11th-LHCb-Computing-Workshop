@@ -1,0 +1,402 @@
+1
+
+I would like to present recent femtoscopic from the ALICE experiment.
+
+2
+Femtoscopy that is to say the method of two-particle correlations at low relative momenta, allows for extracting the space-time characteristics at freeze-out of the source emitting particles, created in collision.
+Correlations of identical pions are usually used to perform this study. However, thanks to the significant particle production in Pb-Pb collisions at LHC energy  and excellent capabilities of particle identification in the ALICE experiment, we are able to obtain the full set of femtoscopic results of pions, kaons and protons.
+It provides the access to wide range of the transverse mass. Therefore, we have a possibility to test the dynamic evolution of the system created in heavy-ion collision. In particular, we can check whether hydrodynamic collectivity prediction includes mesons as well as baryons.
+
+Furthermore, ALICE collected data from pp and pPb collisions which gives the unique opportunity to compare these three systems at comparable multiplicity of the collision.
+The A-A pion femtoscopy results are interpreted within the hydrodynamic framework as a signature of collective.
+Attempts
+to describe the pp data in the same framework have not
+been successful
+In p-A collisions, hydrodynamic
+models that assume the creation of a hot and dense system
+expanding hydrodynamically predict system sizes larger than
+those observed in pp, and comparable to those observed in
+lower-energy A-A collisions at the same multiplicity [24,25].
+
+Alternatively, a model based on gluon saturation suggests
+that the initial system size in p-A collisions should be similar
+to that observed in pp collisions, at least in the transverse
+direction
+
+the pp, pPb collision system, the analysis is complicated by the presence of sizable background correlation structures in addition to the femtoscopic signal
+
+Typically, two-pion QS correlations are used to extract the characteristic radius of the source [21???27]. However,
+higher-order QS correlations can be used as well [28???32]. The novel features of higher-order
+QS correlations are extracted using the cumulant for which all lower order correlations are re-
+moved [33, 34]. The maximum of the three-pion cumulant QS correlation is a factor of two
+larger than for two-pion QS correlations [33???36]. In addition to the increased signal, three-pion
+cumulants also remove contributions from two-particle background correlations unrelated to
+QS (e.g. from mini-jets [24, 26]). The combined effect of an increased signal and decreased
+background is advantageous in low multiplicity systems where a substantial background exists.
+Another interesting, although less studied, aspect of QS correlations is the possible suppression due to coherent pion emission
+[4???7]. Coherent emission may arise for several reasons such as from the formation of a disori-
+ented chiral condensate (DCC) [8???11], gluonic or pionic Bose-Einstein Condensates (BEC)
+[12???15], or multiple coherent sources from pulsed radiation [16].
+
+3
+
+The mutual two-particle correlation comes from
+the (anti-)symmetrization of the wave function for pairs of identical particles,
+or from the Final State Interaction (FSI) for charged or neutral hadrons.
+The femtoscopic correlation function is expressed mathematically as
+
+. The aim of the femtoscopic analysis is to use
+a measured C(q) and a known form of ?? to deduce information about S
+
+h the functional
+form of S, which in heavy ion collision analysis is usually assumed to be a
+three-dimensional ellipsoid with a Gaussian density profile
+For heavier particles or multi particles, a simplified analysis is done in only one dimension
+in PRF. S is then assumed to be
+S(r) ??? exp 
+???
+r
+???2
+4R2
+inv
+
+, (5)
+where Rinv is the single-particle direction-averaged source size
+
+However, the full
+three-dimensional analysis requires significant statistics, which is often not
+available, particularly for heavier particles. Then, the correlation is represented
+in one dimension only, as a function of q = |q|. The decomposition
+of the relative momentum into components is most often done in the Longitudinally
+Co-Moving System (LCMS), a reference frame in which the total
+longitudinal (along the beam axis) momentum of the pair vanishes. The
+three directions are then: longitudinal, outwards (along the pair transverse
+momentum) and sidewards (perpendicular to the other two).
+
+4
+
+We are doing the measurements with the ALICE detector. 
+I just want to mention here that I will show results from pp collisions at 7 TeV as well as Pb-Pb collisions at 2.76 TeV. (For the particle identification we use Time Projection Chamber and Time-of-Flight detector.) 
+
+5
+
+In Fig. 1 the projections
+of three example correlation functions along these axes are
+shown. A significant, approximately Gaussian enhancement
+at low relative momentum is seen in all projections. The width
+of the correlation grows with increasing centrality (lowering
+multiplicity) as well as with increasing k T .
+For like-sign pions the strong-interaction contribution is
+small for the source sizes expected here (a few fm) [42],
+so it is neglected. The remaining  is a convolution of
+the Coulomb interaction and wave-function symmetrization.
+As an approximation, the Coulomb part is factored out and
+integrated separately in the procedure known as the Bowler???
+Sinyukov fitting [48,49]. It is well tested and is applicable for
+pions and for the large source sizes expected in this analysis.
+
+6
+
+The radii in all directions
+are in the range of 2 to 8.5 fm. The radii universally decrease
+with increasing k T , in qualitative agreement with a decreasing
+homogeneity length, as predicted by hydrodynamics. Such
+behavior is a strong indication of a large degree of collectivity
+in the created system. The radii are also universally higher for
+more central collisions, which correspond to growing final-
+state event multiplicity.
+
+the femtoscopic volume scales with the final-state event multiplicity, and that each of
+the three-dimensional radii separately scales with this value
+taken to the power 1/3.
+
+the values of femtoscopic radii on centrality and k T factorizes
+into a linear dependence on dN ch /d?? 1/3 and a power-law
+dependence on m T .
+
+7
+
+Correlations of identical pions are usually used to perform this study. However, thanks to the significant particle production in Pb-Pb collisions at LHC energy  and excellent capabilities of particle identification in the ALICE experiment, we are able to obtain the full set of femtoscopic results of pions, kaons and protons.
+It provides the access to wide range of the transverse mass. Therefore, we have a possibility to test the dynamic evolution of the system created in heavy-ion collision. In particular, we can check whether hydrodynamic collectivity prediction includes mesons as well as baryons.
+What is more, performing analyses for different systems, we are facing different sources of correlations and different combinations of Quantum Statistics and also Coulomb and Strong FSI. (Besides, differences includes the level of systematics, for instance in case of charged and neutral kaons). 
+
+To summarise, the first simultaneous centrality- and mT-differential measurement
+of pp and pp femtoscopic correlations in heavy-ion collisions (including LHC experiments)
+has been presented. The radii extracted from the one-dimensional pp
+and pp correlation functions in combination with the radii obtained from kaon
+femtoscopy were found to exhibit the transverse mass scaling within systematic
+uncertainties. Such dependence is consistent with the predictions of the hydrodynamic
+models with the collective flow. Nonetheless, one can observe that the
+pion radii deviate from the exact mT-scaling. This can be understood as a result
+of performing the one-dimensional analysis. Indeed, hydrodynamic models
+predict the transverse mass scaling of three-dimensional radii calculated in the
+LCMS. One-dimensional radii presented in this chapter were obtained in the PRF,
+though.
+
+8
+
+Moving to the small systems
+
+In Fig. 6 we show the comparison of the 2 pion correlation
+function in pp,
+to the Monte-Carlo (MC) calculation. The simulation used
+the PYTHIA generator [26], Perugia-0 tune [27] as input. In
+this model the enhanced pair production at small relative
+angle (which is equivalent to small q in the kT ranges
+considered here) is associated with soft parton fragmentation
+or mini-jets
+
+9
+
+In Fig. 7 the heavy-ion data from Pb-Pb collisions at the
+LHC reported in this work are compared with the previous
+measurements, including results obtained at lower collision
+energies.  At lower energies the linear scaling was followed well in
+long and side directions and only approximately in out, with
+some outliers such as the most peripheral collisions reported
+by STAR. ALICE data at higher collision energy show that the
+scaling in the long direction is preserved. The data for the side
+direction fall below the scaling trend, although still within
+the statistical uncertainty. A clear departure from the linear
+scaling is seen in the out direction; data from the LHC lie
+clearly below the trend from lower energies. Such behavior
+was predicted by hydrodynamic calculations [33] and is the
+result of the modification of the freeze-out shape
+
+the femtoscopic radii for pp collisions also exhibit linear scaling in the same
+variable, albeit with significantly different parameters. 
+
+This observation is consistent with an expectation
+that the final freeze-out volume, reflected in the femtoscopic
+radii, should scale with the final-state observable (such as,
+e.g., dN ch /d?? 1/3 ), while the simple ???geometric??? initial-state
+variables do not contain enough information
+
+10
+
+So now, the question arises what about pPb.
+In p-A collisions, hydrodynamic
+models that assume the creation of a hot and dense system
+expanding hydrodynamically predict system sizes larger than
+those observed in pp, and comparable to those observed in
+lower-energy A-A collisions at the same multiplicity [24,25].
+However, such models have an inherent uncertainty of the
+initial-state shape and size, which can also differ between pp
+and peripheral A-A collisions.
+Alternatively, a model based on gluon saturation suggests
+that the initial system size in p-A collisions should be similar
+to that observed in pp collisions, at least in the transverse
+direction
+
+11
+
+The radii are in the range of 0.6 to 2.4 fm in all
+directions and universally decrease with k T . The magnitude of
+this decrease is similar for all multiplicities in the out and long
+directions and is visibly increasing with multiplicity in the
+side direction. The radii rise with event
+??? multiplicity. The plot
+also shows data from pp collisions at s = 7 TeV [16] at the
+highest multiplicities measured by ALICE, which is slightly
+higher than the multiplicity measured for the 20%???40% V0A
+signal range in the p-Pb analysis. At small k T , the pp radii
+are lower by 10% (for side) to 20% (for out) than the p-Pb
+radii at the same dN ch /d?? 1/3 . At high k T the difference in
+radius grows for R out , while for R long the radii for both systems
+become comparable. The distinct decrease of radii with k T is
+observed both in both pp and p-Pb.
+
+Hydrodynamic model calculations for p-Pb collisions
+[24,25], shown as lines in Fig. 7, predict the existence of
+a collectively expanding system. Both models employ two
+initial transverse size assumptions, R init = 1.5 fm and R init =
+0.9 fm, which correspond to two different scenarios of the
+energy deposition in the wounded nucleon model [25]. The
+resulting charged-particle multiplicity densities dN ch /d?? of
+45 [25] and 35 [24] are equal to or higher than the one in
+the ALICE 0%???20% multiplicity class. The calculations for
+R out overestimate the measured radii, while the ones with
+large initial size strongly overpredict the radii. The scenarios
+with lower initial size are closer to the data. For R side , the
+calculations are in good agreement with the data in the highest
+multiplicity class, both in magnitude and in the slope of the
+k T dependence. Only the Shapoval et al. [24] calculation for
+large initial size shows higher values than data. For R long ,
+calculations by Bo ??zek and Broniowski [25] overshoot the
+measurement by at least 30% for the most central data, while
+those by Shapoval et al. are consistent within systematics.
+Again, the slope of the k T dependence is comparable. The study
+shows that the calculation with large initial size is disfavored
+by data. The calculations with lower initial size are closer to
+the experimental results, but are still overpredicting the overall
+magnitude of the radii by 10%???30%.
+
+The CGC approach has provided a qualitative statement on
+the initial size of the system in p-Pb collisions, suggesting
+that it is similar to that in pp collisions [27,28]. The measured
+radii, at high multiplicities and low k T , are 10%???20% larger
+than those observed at similar multiplicities in pp data.
+For lower multiplicities the differences are smaller. These
+differences could still be accommodated in CGC calculations
+
+is imilar between pp and p-Pb collisions in the side direction.
+Another similarity is the distinctly non-Gaussian shape of
+the source, which in pp and p-Pb is better described by an
+exponential-Gaussian-exponential form. It appears that data
+in p-Pb collisions still exhibit strong similarities to results
+from pp collisions. However, some deviations, which make
+the p-Pb more similar to A-A collisions, are also observed,
+especially at high multiplicity. The differences between small
+systems such as pp and p-Pb and peripheral A-A data are most
+naturally explained by the significantly different initial states
+in the two scenarios
+
+12
+
+The novel features of higher-order
+QS correlations are extracted using the cumulant for which all lower order correlations are re-
+moved [33, 34]. The maximum of the three-pion cumulant QS correlation is a factor of two
+larger than for two-pion QS correlations [33???36]. In addition to the increased signal, three-pion
+cumulants also remove contributions from two-particle background correlations unrelated to
+QS (e.g. from mini-jets [24, 26]). The combined effect of an increased signal and decreased
+background is advantageous in low multiplicity systems where a substantial background exists.
+
+The three-particle correlation function
+C 3 (p 1 , p 2 , p 3 ) = ?? 3
+N 3 (p 1 , p 2 , p 3 )
+N 1 (p 1 ) N 1 (p 2 ) N 1 (p 3 )
+(6)
+is defined as the ratio of the inclusive three-particle spectrum over the product of the inclusive
+single-particle
+spectra. In analogy to the two-pion case, it is projected onto the Lorentz invariant
+q
+|~ p
++~ p
++~ p
+|
+T,3
+. The
+Q 3 = q 212 + q 231 + q 223 and the average pion transverse momentum K T,3 = T,1 T,2
+
+K 3 (q 12 , q 31 , q 23 ) denotes the three-pion FSI correlation, which in the generalized River-
+side (GRS) approach [42, 56, 57] is approximated by K 2 (q 12 ) K 2 (q 31 ) K 2 (q 23 ). It was found to
+describe the ?? ?? ?? ?? ?? ??? three-body FSI correlation to the few percent level [42]. From Eq. 7 one
+can extract N 3 QS and construct the three-pion QS cumulant correlation
+
+13
+
+the two-particle QS distributions, N 2 QS , and correlations, C 2 QS , are extracted
+from the measured distributions in intervals of k T assuming
+C 2 (q) = N [(1 ??? f c 2 ) + f c 2 K 2 (q)C 2 QS (q)] B(q) .
+(2)
+The parameter f c 2 characterizes the combined dilution effect of weak decays and long-lived
+resonance decays in the ???core/halo??? picture [50, 51]. In Pb???Pb, it was estimated to be 0.7 ?? 0.05
+with mixed-charge two-pion correlations [42]. The same procedure performed in pp and p???
+Pb data results in compatible values. The FSI correlation is given by K 2 (q),
+
+The same-charge two-pion QS correlation can be parametrized by an exponential
+C 2 QS (q) = 1 + ?? e ???R inv q ,
+(3)
+as well as by a Gaussian or Edgeworth expansion
+2
+2
+C 2 QS (q) = 1 + ?? E w 2 (R inv q) e ???R inv q
+???
+?? n
+??? H n (R inv q) ,
+E w (R inv q) = 1 + ???
+n
+n=3 n!( 2)
+(4)
+(5)
+where E w (R inv q) characterizes deviations from Gaussian behavior, H n are the Hermite poly-
+nomials, and ?? n are the Edgeworth coefficients [54]. The first two relevant Edgeworth coeffi-
+cients (?? 3 , ?? 4 ) are found to be sufficient to describe the non-Gaussian features at low relative
+momentum.
+
+The three-pion same-charge cumulant correlations are then projected onto 3D pair relative mo-
+menta and fit with
+c3
+
+14
+
+The absence of two-particle correlations in the three-pion cumulant can be demonstrated via
+the removal of known two-body effects such as the decay of K s 0 into a ?? + + ?? ??? pair (Fig. 1).
+The mixed-charge three-pion correlation function (C 3 ??????? ) projected onto the invariant relative momentum of one of the mixed-charge pairs in the triplet exhibits the K s 0 peak as expected
+around q ????? = 0.4 GeV/c, while it is removed in the cumulant.
+
+15
+
+In Fig. 2 we present three-pion correlation functions for same-charge (top panels) and mixed-
+charge (bottom panels) triplets in pp, p???Pb, and Pb???Pb collision systems in three sample mul-
+tiplicity intervals. For same-charge triplets, the three-pion cumulant QS correlation (c ??????
+) is
+3
+???????
+clearly visible. For mixed-charge triplets the three-pion cumulant correlation function (c 3 ) is
+consistent with unity, as expected when FSIs are removed.
+Also shown in Fig. 2 are model
+calculations of c 3 in PYTHIA (pp), DPMJET (p???Pb) and HIJING (Pb???Pb), which do not con-
+tain QS+FSI correlations and demonstrate that three-pion cumulants, in contrast to two-pion
+correlations [24, 26], do not contain a significant non-femtoscopic background, even for low
+multiplicities.
+
+16
+
+To be independent of the assumed functional form for c 3 , the same-charge three-pion cumulant
+correlation functions are directly compared between two collision systems at similar multiplic-
+ity. Fig. 6(a) shows that while the three-pion correlation functions in pp and p???Pb collisions
+are different, their characteristic widths are similar. It is therefore the ?? e,3 values which differ
+the most between the two systems. Fig. 6(b) shows that the correlation functions in p???Pb and
+Pb???Pb collisions are generally quite different.
+
+17
+
+The extracted radii in each multiplicity interval and system correspond to different hN ch i values.
+To compare the radii in pp and p???Pb at the same hN ch i value, we perform a linear fit to the
+pp three-pion Edgeworth radii as a function of hN ch i 1/3 . We then compare the extracted p???Pb
+three-pion Edgeworth radii to the value of the pp fit evaluated at the same hN ch i. We find that the
+Edgeworth radii in p???Pb are on average 10 ?? 5% larger than for pp in the region of overlapping
+multiplicity. The comparison of Pb???Pb to p???Pb radii is done similarly where the fit is performed
+to p???Pb data and compared to the two-pion Pb???Pb Edgeworth radii. The Edgeworth radii in
+Pb???Pb are found to be on average 45 ?? 10% larger than for p???Pb in the region of overlapping
+multiplicity.
+
+18
+
+19
+
+The novel effects measured with three-particle correlations are isolated with the r 3 function [21,22]:
+The intercept of r 3 , I , is
+expected to be 2 in the case of fully chaotic particle-emitting
+sources and less than 2 in the case of partially coherent sources
+owing to limited statistical
+precision we project r 3 from three-dimensional invariant
+relative momenta to one-dimensional Q 3 . A fit quartic and
+quadratic in Q 3 is performed,
+The coherent
+fraction (G) can be extracted from the intercept as
+
+20, 21
+
+We now present r 3 versus Q 3 in Figs. 10 and 11 in six
+centrality bins and two K T,3 bins. The data are fit with a
+quartic and quadratic fit as shown by Eqs. (11) and (12). The
+systematic uncertainties at large Q 3 are typically larger than
+50%, while at low Q 3 they are much smaller. At low Q 3 , one
+notices that r 3 is further below the chaotic limit (2.0) in Fig. 10
+than in Fig. 11.
+The largest systematic uncertainty in Figs. 10 and 11 is
+attributable to the residual correlation of c ???????
+
+Given the large uncertainties at large Q 3 , r 3 does not change
+significantly with centrality and is equally well described by
+quartic and quadratic fits
+
+From the intercepts of r 3 at Q 3 = 0 presented in Tables III
+and IV, the corresponding coherent fractions (G) may be
+extracted using Eq. (13). For low K T,3 , the centrality averaged
+intercepts (0%???50%) of r 3 may correspond to coherent frac-
+tions of 28% ?? 3% and 24% ?? 9% for quartic and quadratic
+intercepts, respectively. For high K T,3 , the corresponding
+coherent fractions are consistent with zero for both quartic and
